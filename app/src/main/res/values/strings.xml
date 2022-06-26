@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Konversi Nilai Akhir</string>
+    <string name="masukkan_nilai_akhir_0_100">Masukkan nilai akhir ( 0-100 )</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="nilai_hasil_konversi">Nilai hasil konversi :</string>
+    <string name="nilai_kamu">Nilai kamu :</string>
+    <string name="nilai_kamu_template">Nilai kamu : %1$s</string>
+    <string name="nilai_konversi_template">Nilai hasil konversi : %1$s</string>
+</resources>
